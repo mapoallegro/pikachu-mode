@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://static.wikia.nocookie.net/pokemon/images/4/49/Ash_Pikachu.png/revision/latest/scale-to-width-down/1000?cb=20200405125039" alt="Pikachu" width="200"/>
+<img src="https://static.wikia.nocookie.net/pokemon/images/4/49/Ash_Pikachu.png/revision/latest/scale-to-width-down/1000?cb=20200405125039" alt="Pikachu"/>
 
 # ⚡ pikachu-mode
 
