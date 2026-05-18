@@ -6,9 +6,9 @@
 
 **Your AI coding assistant, but it speaks Pikachu.**
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-⚡Pika⚡-yellow?style=flat-square)](https://github.com)
-[![Token Savings](https://img.shields.io/badge/Token%20Savings-15--40%25-green?style=flat-square)](.)
-[![Fun Factor](https://img.shields.io/badge/Fun%20Factor-Over%209000-red?style=flat-square)](.)
+[![Made with Love](https://img.shields.io/badge/Made%20with-⚡Pika⚡-yellow?style=flat-square)](https://github.com/mapoallegro/pikachu-mode)
+[![Token Savings](https://img.shields.io/badge/Token%20Savings-15--40%25-green?style=flat-square)](#-token-savings)
+[![Fun Factor](https://img.shields.io/badge/Fun%20Factor-Over%209000-red?style=flat-square)](#-intensity-levels)
 
 *A communication mode plugin for Copilot CLI & Claude Code that replaces filler, pleasantries, and hedging with Pikachu vocabulary — while keeping **full technical accuracy**.*
 
