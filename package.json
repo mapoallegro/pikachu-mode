@@ -1,0 +1,19 @@
+{
+  "name": "pikachu-mode",
+  "version": "1.0.0",
+  "description": "Pokémon-flavored communication mode plugin for Copilot CLI & Claude Code. Replaces filler with Pikachu vocabulary while keeping full technical accuracy.",
+  "author": "Marek Pol",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapoallegro/pikachu-mode.git"
+  },
+  "homepage": "https://github.com/mapoallegro/pikachu-mode",
+  "keywords": [
+    "copilot-cli-plugin",
+    "claude-code-plugin",
+    "communication-mode",
+    "pikachu",
+    "token-savings"
+  ]
+}

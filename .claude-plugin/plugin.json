@@ -1,0 +1,17 @@
+{
+  "name": "pikachu-mode",
+  "description": "Pokémon-flavored communication mode. Replaces filler and emotions with Pikachu vocabulary while keeping full technical accuracy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marek Pol"
+  },
+  "homepage": "https://github.com/mapoallegro/pikachu-mode",
+  "repository": "https://github.com/mapoallegro/pikachu-mode",
+  "license": "MIT",
+  "keywords": [
+    "communication-mode",
+    "pikachu",
+    "token-savings",
+    "fun"
+  ]
+}
